@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "",
+      "path": ""
+    },
+    "live": {
+      "bucket": "",
+      "path": ""
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "slug": "",
+  "tags": [],
+  "image": "assets/social.jpg",
+  "production": true,
+  "embedded": true,
+  "sheets": ["1D5yQW0Qo9jtWLB64bPB2VHgghxDhUy8n7ovO1pzpOJA"]
+}

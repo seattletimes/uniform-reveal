@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+  <head>
+    <title><%= json.project.title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <%= t.include("partials/_head.html") %>
+  </head>
+  <body>
+
+    <responsive-child>
+      <div class="outer">
+        <div class="flex-container">
+          <div class="info">
+            <h1>Headline</h1>
+            <h2>deck</h2>
+            <p>"You’ve seen the logos, numbers and colors.
+            <p>Now here’s the context.
+            <p>Prior to Washington’s public unveiling of its new Adidas football uniforms on Wednesday, Todd Rolak — Adidas’ Senior Design Director of US Sports — agreed to an email interview explaining the thought process behind many of the design decisions.
+            
+            <p class="note"> <i class="fa fa-plus-circle"></i> Click on any icon to read Rolak’s perspective on the Huskies’ new threads.
+          </div>
+
+          <div class="image">
+            <img class="background" src="./assets/airport_illo_revised.jpg">
+            <div class="overlay"><%= t.include("./assets/airport.svg") %></div>
+          </div>
+
+        </div>
+
+        <div class="credits">GABRIEL CAMPANARIO and AUDREY CARLSEN / THE SEATTLE TIMES</div>
+      </div>
+    </responsive-child>
+
+    <script src="app.js" async></script>
+    <script>
+      var data = <%= JSON.stringify(json.UWUniforms_notes) %>;
+    </script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_foot.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>
