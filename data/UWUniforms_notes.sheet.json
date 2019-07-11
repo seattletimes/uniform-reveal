@@ -1,0 +1,50 @@
+{
+  "One": {
+    "Title": "Darker purple",
+    "Name": "Jersey",
+    "Image": "Husky1.jpg",
+    "Text": "The new Adidas uniforms showcase a deeper, darker shade of purple.\n“As we created the overall design, we wanted to enrich the already regal use of the color purple, while paying homage to the UW traditional color. This contemporary upgrade champions UW’s winning tradition while respectfully taking the next step forward.”"
+  },
+  "Two": {
+    "Title": "Same gold",
+    "Name": "Pants",
+    "Image": "Husky2.jpg",
+    "Text": "The shade of gold in the pants remains the same. It’s meant to match the gold of UW’s helmets, which were not involved in Adidas’ redesign."
+  },
+  "Three": {
+    "Title": "Slanted numbers",
+    "Name": "Numbers",
+    "Image": "Husky3.jpg",
+    "Text": "The numbers are intentionally slanted at a 15-degree angle, the same angle used in Washington’s “W” logo.\n“The new number set was born and created using the iconic ‘W’ as the foundational starting point. The ‘slant’ feature pulls from the angles and lines from the UW’s historic logo.”"
+  },
+  "Four": {
+    "Title": "Purple Reign (drops)",
+    "Name": "Pattern",
+    "Image": "Husky4.jpg",
+    "Text": "Artificial rain drops are subtly visible on the numbers.\n“The tonal rain pattern is a nod to the notorious weather here in the PNW. This textural detail is placed with pride.”"
+  },
+  "Five": {
+    "Title": "Purple stripes",
+    "Name": "Stripes",
+    "Image": "Husky5.jpg",
+    "Text": "“We altered the sleeve stripes and tapered them to make them faster and more stylistically contemporary while pairing them with an iridescent purple film adding new dimension to a traditional stripe treatment.”"
+  },
+  "Six": {
+    "Title": "Sharper numbers",
+    "Name": "Angles",
+    "Image": "Husky6.jpg",
+    "Text": "The numbers are more angular and less wavy than the previous Nike design.\n“This is a newly designed and customized number set inspired by the angles of the university’s iconic ‘W.’ Our design theme, ‘Angle of Pursuit,’ captures these features and tells the Husky story of relentless pursuit towards greatness."
+  },
+  "Seven": {
+    "Title": "Names remain the same",
+    "Name": "Names",
+    "Image": "Husky7.jpg",
+    "Text": "The font on the names on the back of the jerseys have not changed.\n“We wanted some aspects of the past to be carried forward. The nameplates were a perfect vehicle to bridge previous years and moving forward into future seasons by not altering the existing font.”"
+  },
+  "Eight": {
+    "Title": "Tighter material",
+    "Name": "Material",
+    "Image": "Husky8.jpg",
+    "Text": "The jersey itself is made with a tighter, more compressed material.\n“The Primeknit A1 jersey redefines silhouette through compression. Through the actual knitting process, it provides a specially engineered fit, refined silhouette, and Climacool technology for cooling and breathability.”"
+  }
+}

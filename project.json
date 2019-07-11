@@ -1,17 +1,17 @@
 {
   "s3": {
     "stage": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "ancestral-apotheosis"
     },
     "live": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects.seattletimes.com",
+      "path": "/2019/sports/uw-huskies/"
     }
   },
   "title": "",
   "description": "",
-  "url": "",
+  "url": "https://projects.seattletimes.com/2019/sports/uw-huskies/",
   "slug": "",
   "tags": [],
   "image": "assets/social.jpg",
