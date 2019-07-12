@@ -6,15 +6,15 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "/2019/sports/uw-huskies/"
+      "path": "/2019/sports/uw-huskies/behind-the-design-of-washingtons-newest-adidas-jerseys"
     }
   },
-  "title": "",
+  "title": "Behind the design of Washington’s newest Adidas jerseys",
   "description": "",
   "url": "https://projects.seattletimes.com/2019/sports/uw-huskies/",
   "slug": "",
   "tags": [],
-  "image": "assets/social.jpg",
+  "image": "assets/husky-social.jpg",
   "production": true,
   "embedded": true,
   "sheets": ["1D5yQW0Qo9jtWLB64bPB2VHgghxDhUy8n7ovO1pzpOJA"]

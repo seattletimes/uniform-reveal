@@ -9,7 +9,21 @@
 	</image>
 </g>
 -->
+<circle class="st-circle" cx="427.7" cy="227.3" r="16.1"/>
+<circle class="st-circle" cx="288.1" cy="283.4" r="16.1"/>
+<circle class="st-circle" cx="392.1" cy="291.4" r="16.1"/>
+<circle class="st-circle" cx="323.3" cy="350.4" r="16.1"/>
+<circle class="st-circle" cx="371.3" cy="463.6" r="16.1"/>
+<circle class="st-circle" cx="377.1" cy="185.2" r="16.1"/>
+<circle class="st-circle" cx="323.4" cy="222.9" r="16.1"/>
+<circle class="st-circle" cx="213.1" cy="214.9" r="16.1"/>
 <g id="Background">
+	<!--
+	<g id="Nine" class="st-group">
+	<path d="M44.3,24.2c-2.2-2.2-5.1-3.5-8.5-3.5c-6.6,0-12,5.4-12,12s5.4,12,12,12c5.9,0,10.8-4.3,11.8-10h-3c-0.9,4-4.5,7-8.8,7
+	c-5,0-9-4-9-9s4-9,9-9c2.5,0,4.7,1,6.3,2.7l-4.3,4.3h10v-10L44.3,24.2z"/>
+	</g>
+-->
 	<g>
 	<path class="st-plus" d="M429.4,219.4v6.3h6.1v3.2h-6.1v6.4H426v-6.4h-6.1v-3.2h6.1v-6.3H429.4z"/>
 	</g>
@@ -34,6 +48,8 @@
 <g>
 	<path class="st-plus" d="M373,455.7v6.3h6.1v3.2H373v6.4h-3.4v-6.4h-6.1V462h6.1v-6.3H373z"/>
 </g>
+
+
 
 <g id="One" class="st-group">
 	<polygon id="twoCircle" class="st-overlay" points="446.4,196 410.2,196 392.1,227.3 410.2,258.7 446.4,258.7 464.6,227.3 	"/>

@@ -25,7 +25,7 @@ a {
 
 .fa {
   padding: 0 2px;
-  color: #DD492D;
+  color: black;
 }
 
 .note {
@@ -41,26 +41,46 @@ a {
 
 .flex-container {
   .display-flex();
+  flex-flow:row;
+  max-width:100%;
 }
 
 .info {
-  .flex(0 0 340px);
+  .flex(1 60%);
   font-size: 17px;
   padding-right: 20px;
+  padding-bottom: 10%;
+
 
   .title {
     font-weight: bold;
     font-size: 22px;
-    color: darken(#DD492D, 20%);
+    
   }
   .text {
     font-size: 16px;
   }
 }
 
+@media (max-width:480px) {
+  .info {
+  .flex(1 100%);
+  padding-right:0px;
+  padding-bottom:10px;
+  }
+  .image {
+  .flex(1 100%);
+  padding-bottom:100%;
+  }
+  .flex-container {
+  display:block;
+  }
+  }
+
 .image {
-  .flex(1);
+  .flex(1 40%);
   position: relative;
+
 
   .background, .overlay {
     position: absolute;
@@ -94,11 +114,12 @@ a {
 }
 
 .st-circle {
-  fill: #DD492D;
+  fill: #000000;
   cursor: pointer;
+  opacity:0.5;
 }
 .st-plus {
-  fill: #F6CDBA;
+  fill: white;
   cursor: pointer;
 }
 .st-overlay {
